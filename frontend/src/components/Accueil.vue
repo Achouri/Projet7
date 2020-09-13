@@ -28,13 +28,13 @@ export default {
         return{
             items: [
             {
-                src: require("../assets/images/immeuble.jpg"),
+                src: require("../assets/images/team.jpg"),
             },
             {
-                src: require("../assets/images/openspace.jpg"),
+                src: require("../assets/images/same-goal.jpg"),
             },
             {
-                src: require("../assets/images/chocolat.jpg"),
+                src: require("../assets/images/together.jpg"),
             },
             ]
             
