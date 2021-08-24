@@ -1,6 +1,4 @@
-﻿# Project n ° 7 OpenClassrooms
 
-## Creation of a corporate social network for Groupomania
 
 Download the repository and follow the instructions below to install this project locally
 
